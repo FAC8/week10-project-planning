@@ -47,3 +47,35 @@
 ## Actions
 * Set up style-guide
 * Finish off wireframes with new knowledge of features
+
+# Tech Stack
+## Database
+Postgres more suited to what we're doing.
+
+## Oauth
+* Facebook login
+* Going to implement cookies to save users between sessions
+
+## Front-end
+* SASS
+* React
+* No in-line styling
+
+## Server
+* Hapi
+* Joi for email address validation
+
+## Actions
+* Learn how to write the script which builds the tables
+* Write database schema
+* Set up example.com with facebook api
+
+# Code reviewers
+![stalin](http://www.historytoday.com/sites/default/files/stalin.jpg)
+
+* Research linters and config files and find one that will be appropriate. Sam
+* Research tape to see if it will work in the way we want. Matt G
+* Research setting up Travis with all the webhooks we want - Come up with a decision on code coverage to that will be enforced. Sam + Matt S
+* Research how to do limited merge access in a repo. Mattia
+* Writing the docs - include guidelines for reviewers. Everyone
+* Deliverable by close of play - A repo with fully configured package.json, travis, webhooks, basic tests. Everyone
