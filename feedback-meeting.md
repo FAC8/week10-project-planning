@@ -27,7 +27,7 @@
 
 ## Actions
 * Choose image uploader
-* Look into googlemaps API with react (iframe)
+* Look into googlemaps API with react (iframe) -- This is a great npm module: https://github.com/istarkov/google-map-react
 
 # Design
 ## Listings
